@@ -1,6 +1,8 @@
 :root {
   --main-bg-color: #2c517c;
   --icon-badge-color: #db6ab9;
+  --sub-bg-color: #f8fcff;
+  --main-shadow-color:  #adbde4;
 }
 
 body {

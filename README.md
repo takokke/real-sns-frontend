@@ -14,5 +14,5 @@
 ## 負荷の設定
 ### 1. TypeScriptで書き換える。
 @type/reactと@type/react-domを用いる
-### 2. class名を与えCSSで書く
-自力でかく
+### 2. cssを自分なりに工夫する
+変数を使う、レスポンシブ対応など
